@@ -1,0 +1,15 @@
+C:\Юля\c#домашки\c#HT9\task68\bin\Debug\net6.0\task68.exe
+C:\Юля\c#домашки\c#HT9\task68\bin\Debug\net6.0\task68.deps.json
+C:\Юля\c#домашки\c#HT9\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\Юля\c#домашки\c#HT9\task68\bin\Debug\net6.0\task68.dll
+C:\Юля\c#домашки\c#HT9\task68\bin\Debug\net6.0\task68.pdb
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\task68.dll
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\refint\task68.dll
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\task68.pdb
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+C:\Юля\c#домашки\c#HT9\task68\obj\Debug\net6.0\ref\task68.dll
